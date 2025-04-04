@@ -22,7 +22,7 @@ repository               : "Tinder-ark/Tinder-ark.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "handsome.jpg"
+  avatar           : "handsome.JPG"
   name             : "Rongyu Xiong"
   pronouns         : he/him # example: "she/her"  
   bio              : "An undergraduate majoring Computer Science in Tianjin University"
