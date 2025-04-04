@@ -11,6 +11,4 @@ I'm a third year undergraduate student from [Tianjin University](https://www.tju
 
 I am very fortunate to be advised by [Prof. Pan](https://gpantju.github.io/index/) of XXX Lab from [College of Intelligence and Computing](https://cic.tju.edu.cn/), Tianjin University.
 
-You can find my CV here (which is currently not exist): .
-
 [Email](mailto:xiongry198@tju.edu.cn) / [Github](https://github.com/Tinder-ark)
